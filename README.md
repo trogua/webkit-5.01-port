@@ -7,10 +7,6 @@ A port of the PS4 5.50 WebKit exploit by [qwertyoruiopz](https://twitter.com/qwe
 
 It should work for firmwares 5.01 - 5.05 but the gadget offsets might need to be changed for the other versions. 
 
-### Changes
-
-* Added a check to not list the current and parent directory directories when browsing the browser directories
-
 ### Reference
 [Original by qwertyoruiopz](http://crack.bargains/550/)
 
